@@ -53,9 +53,16 @@
 <a href="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </a>
-<a href="https://img.shields.io/badge/Arduino-%23BB8D5C.svg?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-%23BB8D5C.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 </a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</a>
+
+
+
+
 
 ### Projects
 - [Virtual Zoom Gesture](https://github.com/hewageuhcu/VirtualZoomGesture) - Zoom in and out of an image virtually. Built with Python and OpenCV.
@@ -64,6 +71,13 @@
 
 ### GitHub Stats
 ![Chathurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hewageuhcu&show_icons=true&theme=radical&count_private=true)
+
+### Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hewageuhcu&layout=compact&theme=radical)
+
+### GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hewageuhcu&theme=radical)
+
 
 
 
