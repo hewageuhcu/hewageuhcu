@@ -62,6 +62,10 @@
 <a href="https://angular.io" target="_blank">
     <img src="https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+</a>
+
 
 
 
