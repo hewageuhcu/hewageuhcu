@@ -57,11 +57,16 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 </a>
 <a href="https://git-scm.com/">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</a>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
 <a href="https://angular.io" target="_blank">
-    <img src="https://img.shields.io/badge/angular-red" alt="Angular">
+    <img src="https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 </a>
+
+
+
+
+
 
 
 
