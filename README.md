@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Chathurya 👋
 
-<!--
-**hewageuhcu/hewageuhcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🎓 Undergraduate at University of Moratuwa, Sri Lanka
+- 💻 Pursuing BSc.(Hons) in Information Technology and Management
 
-Here are some ideas to get you started:
+### Skills
+- 🌐 Web Development: HTML, CSS, JavaScript
+- 💻 Programming: React,Angular,Springboot
+- 📊 Data Analysis: SQL, Excel,MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- [Virtual Zoom Gesture](https://github.com/hewageuhcu/VirtualZoomGesture) - Zoom in and out an image virtually. My another open cv project. Build up with python.
+- [Virtual Sound Contoller](https://github.com/hewageuhcu/openCV-Project) - Contorl system sound virtually. My first opencv project. Build up with python.
+- [ChatBot](https://github.com/hewageuhcu/ChatBot) - My first chatbot project. Build up with python using openAI API.
+### Connect with Me
+- [LinkedIn](http://www.linkedin.com/in/chathurya-hewage-516499259)
+- [HackerRank](https://www.hackerrank.com/profile/hewageuhcu_21)
+
+
