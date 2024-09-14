@@ -79,6 +79,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hewageuhcu&theme=radical)
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=hewageuhcu)
+
 
 
 ### Connect with Me
