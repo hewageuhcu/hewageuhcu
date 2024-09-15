@@ -68,6 +68,10 @@
 <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI">
 </a>
+<a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</a>
+
 
 
 
