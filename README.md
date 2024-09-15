@@ -117,4 +117,9 @@
 <a href="https://www.hackerrank.com/profile/hewageuhcu_21">
   <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
 </a>
+<br/>
+<a href="mailto:uhchewage23@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
 
