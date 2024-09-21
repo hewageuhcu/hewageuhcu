@@ -86,6 +86,11 @@
 <a href="https://openai.com/" target="_blank">
     <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
 </a>
+<a href="https://vuejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
+</a>
+
+
 
 
 
