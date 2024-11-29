@@ -101,6 +101,10 @@
 <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </a>
+<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">
+    <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+</a>
+
 
 
 
