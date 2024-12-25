@@ -1,7 +1,7 @@
 # Hello, I'm Chathurya 👋
 
 ### About Me
-- 🎓 Undergraduate at University of Moratuwa, Sri Lanka
+- 🎓 3rd year undergraduate at University of Moratuwa, Sri Lanka
 - 💻 Pursuing BSc.(Hons) in Information Technology and Management
 
 ### Skills
