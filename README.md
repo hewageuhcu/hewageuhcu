@@ -104,6 +104,12 @@
 <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">
     <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
 </a>
+<a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
+</a>
+
+
+
 
 
 
