@@ -3,6 +3,7 @@
 ### About Me
 - 🎓 3rd year undergraduate at University of Moratuwa, Sri Lanka
 - 💻 Pursuing BSc.(Hons) in Information Technology and Management
+- 💻 Diploma in Information Technology - University of Colombo School of Computing
 
 ### Skills
 <a href="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
