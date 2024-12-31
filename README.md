@@ -142,7 +142,7 @@
 
 ### Projects
 - [Virtual Zoom Gesture](https://github.com/hewageuhcu/VirtualZoomGesture) - Zoom in and out of an image virtually. Built with Python and OpenCV.
-- [Virtual Sound Controller](https://github.com/hewageuhcu/openCV-Project) - Control system sound virtually. Built with Python and OpenCV.
+- [Virtual Volume Controller](https://github.com/hewageuhcu/openCV-Project) - Control system sound virtually. Built with Python and OpenCV.
 - [ChatBot](https://github.com/hewageuhcu/ChatBot) - My first chatbot project, built with Python using OpenAI API.
 - [Analog Clock](https://github.com/hewageuhcu/Analog-Clock) - My first Angular based project, an analog clock design.
 - Restaurant Online Food Ordering Website<br/>
