@@ -115,31 +115,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Projects
 - [Virtual Zoom Gesture](https://github.com/hewageuhcu/VirtualZoomGesture) - Zoom in and out of an image virtually. Built with Python and OpenCV.
 - [Virtual Volume Controller](https://github.com/hewageuhcu/openCV-Project) - Control system sound virtually. Built with Python and OpenCV.
