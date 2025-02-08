@@ -1,6 +1,7 @@
 # Hello, I'm Chathurya 👋
 
 ### About Me
+- 👩🏻‍💻 Trainee Software Engineer at Ceylon Electricity Board
 - 🎓 3rd year undergraduate at University of Moratuwa, Sri Lanka
 - 💻 BSc.(Hons) in Information Technology and Management (UG) 
 - 💻 Diploma in Information Technology - University of Colombo School of Computing
