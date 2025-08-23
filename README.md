@@ -4,7 +4,7 @@
 - 👩🏻‍💻 Trainee Software Engineer at Ceylon Electricity Board
 - 🎓 3rd year undergraduate at University of Moratuwa, Sri Lanka
 - 💻 BSc.(Hons) in Information Technology and Management (UG) 
-- 💻 Diploma in Information Technology - University of Colombo School of Computing  
+- 💻 Diploma in Information Technology - University of Colombo School of Computing
 
 ### Skills
 <a href="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
