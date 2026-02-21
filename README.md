@@ -112,6 +112,9 @@
 <a href="https://spring.io/projects/spring-framework" target="_blank">
     <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC">
 </a>
+<a href="https://www.cypress.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
+</a>
 
 
 
